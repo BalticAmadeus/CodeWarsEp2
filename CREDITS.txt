@@ -1,0 +1,20 @@
+﻿Tech City CodeWars Episode II, Rat Race (C) 2017
+
+Solution is based on work done for previous competitions:
+Tech City CodeWars Episode I (https://github.com/BalticAmadeus/CodeWars2016)
+SebReversi code by AB SEB bankas (https://github.com/BalticAmadeus/SebReversi)
+EnjoyTron source code by Baltic Amadeus (https://github.com/BalticAmadeus/EnjoyTron)
+
+Contributors for Tech City Lithuania:
+
+Antanas Kompanas, Baltic Amadeus
+Arūnas Kašinskas, EIS Group
+
+The following third party libraries were used in the solution:
+
+Microsoft CommonServiceLocator
+Microsoft Enterprise Library (Logging Application Block)
+Xceed Extended WPF Toolkit
+Prism
+Autofac
+Json.NET (Newtonsoft.Json)

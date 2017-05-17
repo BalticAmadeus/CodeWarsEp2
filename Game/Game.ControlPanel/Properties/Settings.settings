@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Game.ControlPanel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceBaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:60044/</Value>
+    </Setting>
+    <Setting Name="DemoClientPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\Game.ClientHandler\launch.bat</Value>
+    </Setting>
+    <Setting Name="ProxyNeedsPassword" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProxyUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
